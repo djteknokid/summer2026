@@ -8,6 +8,8 @@
 | Check-out | Tue, June 30, 2026 |
 | Nights | 3 nights |
 | Status | Confirmed |
+| Reservation No | 3216000335 |
+| Reservation Date | Sun, April 12, 2026 |
 | Price | KRW 549,000 |
 | Address | 서울특별시 종로구 인사동7길 26 (관훈동, 호텔 썬비) |
 | Phone | 02-730-3451 |
