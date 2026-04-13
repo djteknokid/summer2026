@@ -20,11 +20,34 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 ## June 30 (Tue) — Seoul → Osaka
 - 09:35 Depart Incheon (ICN) on KE723
 - 11:20 Arrive Osaka/Kansai (KIX)
-- Check in: Osaka hotel (Namba/Shinsaibashi area) — 1 night
+- Check in: Candeo Hotels Osaka The Tower (Namba area) — 1 night
 
 ## July 1 (Wed) — Osaka → Kyoto
+- 09:00 Sky Spa / breakfast at Candeo Hotel
+- 10:00 Check out, explore Dotonbori area
+- 11:00 Depart for Kyoto
+  - 🚃 JR Special Rapid Train: Osaka Station → Kyoto Station (~30 min, ¥570)
+  - Take subway from Namba to Osaka Station (~10 min) then board JR
+- 12:00 Arrive Kyoto Station
+- 12:00 Lunch at Nishiki Market (food stroll)
+- 13:30 Walk Gion district
+- 15:00 Check in to Kyoto hotel
+- 16:30 Head to Fushimi Inari
+- 18:00 Enter Fushimi Inari (golden hour through torii gates)
+- 19:15 Sunset at Fushimi Inari
+- 20:00 Dinner in Fushimi sake district
+- 21:30 Back to hotel, early bed (wake up 4:15am!)
 
 ## July 2 (Thu) — Kyoto → Tokyo
+- 04:45 Arashiyama Bamboo Grove (sunrise, empty!)
+- 05:15 Togetsukyo Bridge / riverside sunrise
+- 06:00 Arashiyama backstreets
+- 07:00 Breakfast near Arashiyama
+- 08:00 Queue at Tenryu-ji Temple
+- 08:30 Tenryu-ji Temple Garden opens — first in!
+- 09:30 Head to Kyoto Station
+- 10:00 Shinkansen to Tokyo (~2h15m)
+- ~12:15 Arrive Tokyo
 
 ## July 3 (Fri) — Tokyo
 
