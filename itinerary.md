@@ -31,7 +31,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 - 12:00 Arrive Kyoto Station
 - 12:00 Lunch at Nishiki Market (food stroll)
 - 13:30 Walk Gion district
-- 15:00 Check in to Kyoto hotel
+- 15:00 Check in to Ranzan Hotel, Arashiyama (Japanese Style Room)
 - 16:30 Head to Fushimi Inari
 - 18:00 Enter Fushimi Inari (golden hour through torii gates)
 - 19:15 Sunset at Fushimi Inari

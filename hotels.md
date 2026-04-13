@@ -28,3 +28,17 @@
 | Status | Confirmed |
 | Confirmation No | 20260413153182369 |
 | Expedia Itinerary | 73418965799409 |
+
+---
+
+## Kyoto — Ranzan Hotel
+
+| Item | Details |
+|------|---------|
+| Check-in | Wed, July 1, 2026 |
+| Check-out | Thu, July 2, 2026 |
+| Nights | 1 night |
+| Room | Japanese Style Room |
+| Guests | 1 room |
+| Booked for | David Lee |
+| Address | 33 Sagatenryuji Susukinobaba-cho, Ukyo-ku, Kyoto, 616-8385 Japan |
