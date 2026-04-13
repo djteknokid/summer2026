@@ -2,54 +2,54 @@
 
 ## KE024 — San Francisco → Seoul
 
-| 항목 | 내용 |
-|------|------|
-| 날짜 | 2026년 6월 26일 (금) |
-| 항공편 | 대한항공 KE024 |
-| 출발 | 12:40 · 샌프란시스코 (SFO) |
-| 도착 | 17:20 · 서울/인천 (ICN) — 6월 27일 (토) |
-| 좌석 클래스 | Economy |
-| 좌석 번호 | 48B |
-| 무료 수하물 | 2 Pieces |
+| Item | Details |
+|------|---------|
+| Date | Fri, June 26, 2026 |
+| Flight | Korean Air KE024 |
+| Departure | 12:40 · San Francisco (SFO) |
+| Arrival | 17:20 · Seoul/Incheon (ICN) — June 27 (Sat) |
+| Class | Economy |
+| Seat | 48B |
+| Free Baggage | 2 Pieces |
 
 ---
 
 ## KE723 — Seoul → Osaka
 
-| 항목 | 내용 |
-|------|------|
-| 날짜 | 2026년 6월 30일 (화) |
-| 항공편 | 대한항공 KE723 |
-| 출발 | 09:35 · 서울/인천 (ICN) |
-| 도착 | 11:20 · 오사카/간사이 (KIX) |
-| 소요시간 | 1시간 45분 |
-| 좌석 클래스 | Economy |
-| 좌석 번호 | 48A |
-| 무료 수하물 | 1 Piece |
+| Item | Details |
+|------|---------|
+| Date | Tue, June 30, 2026 |
+| Flight | Korean Air KE723 |
+| Departure | 09:35 · Seoul/Incheon (ICN) |
+| Arrival | 11:20 · Osaka/Kansai (KIX) |
+| Duration | 1h 45m |
+| Class | Economy |
+| Seat | 48A |
+| Free Baggage | 1 Piece |
 
 ---
 
 ## KE704 — Tokyo → Seoul
 
-| 항목 | 내용 |
-|------|------|
-| 날짜 | 2026년 7월 8일 (수) |
-| 항공편 | 대한항공 KE704 |
-| 출발 | 14:00 · 도쿄/나리타 (NRT) |
-| 도착 | 16:30 · 서울/인천 (ICN) |
-| 좌석 클래스 | Economy |
-| 무료 수하물 | 1 Piece |
+| Item | Details |
+|------|---------|
+| Date | Wed, July 8, 2026 |
+| Flight | Korean Air KE704 |
+| Departure | 14:00 · Tokyo/Narita (NRT) |
+| Arrival | 16:30 · Seoul/Incheon (ICN) |
+| Class | Economy |
+| Free Baggage | 1 Piece |
 
 ---
 
 ## KE023 — Seoul → San Francisco
 
-| 항목 | 내용 |
-|------|------|
-| 날짜 | 2026년 7월 19일 (일) |
-| 항공편 | 대한항공 KE023 |
-| 출발 | 16:00 · 서울/인천 (ICN) |
-| 도착 | 11:00 · 샌프란시스코 (SFO) — 7월 19일 (일) |
-| 좌석 클래스 | Economy |
-| 좌석 번호 | 48B |
-| 무료 수하물 | 2 Pieces |
+| Item | Details |
+|------|---------|
+| Date | Sun, July 19, 2026 |
+| Flight | Korean Air KE023 |
+| Departure | 16:00 · Seoul/Incheon (ICN) |
+| Arrival | 11:00 · San Francisco (SFO) — July 19 (Sun) |
+| Class | Economy |
+| Seat | 48B |
+| Free Baggage | 2 Pieces |
