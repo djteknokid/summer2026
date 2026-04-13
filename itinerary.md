@@ -60,8 +60,8 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 ## July 7 (Tue) — Tokyo
 
 ## July 8 (Wed) — Tokyo → Seoul
-- 02:00 Depart Tokyo/Haneda (HND) on KE752
-- 04:35 Arrive Incheon (ICN) Terminal 2
+- 14:00 Depart Tokyo/Narita (NRT) on KE704
+- 16:30 Arrive Incheon (ICN)
 
 ## July 8–18 — Seoul
 *(details TBD)*
