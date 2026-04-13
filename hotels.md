@@ -14,3 +14,17 @@
 | Address | 서울특별시 종로구 인사동7길 26 (관훈동, 호텔 썬비) |
 | Phone | 02-730-3451 |
 | Website | https://kr.hotelsunbee.com/ |
+
+---
+
+## Osaka — Candeo Hotels Osaka The Tower
+
+| Item | Details |
+|------|---------|
+| Check-in | Tue, June 30, 2026 at 3:00 PM |
+| Check-out | Wed, July 1, 2026 at 11:00 AM |
+| Nights | 1 night |
+| Guests | 2 adults · 1 room |
+| Status | Confirmed |
+| Confirmation No | 20260413153182369 |
+| Expedia Itinerary | 73418965799409 |
