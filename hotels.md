@@ -42,3 +42,17 @@
 | Guests | 1 room |
 | Booked for | David Lee |
 | Address | 33 Sagatenryuji Susukinobaba-cho, Ukyo-ku, Kyoto, 616-8385 Japan |
+
+---
+
+## Tokyo — illi Com Shimokitazawa
+
+| Item | Details |
+|------|---------|
+| Check-in | Thu, July 2, 2026 |
+| Check-out | Wed, July 8, 2026 |
+| Nights | 6 nights |
+| Status | Confirmed |
+| Confirmation No | 22388729 |
+| Expedia Itinerary | 73425012531032 |
+| Address | 2-15-17 Kitazawa, Tokyo 155-0031 |
