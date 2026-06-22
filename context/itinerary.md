@@ -5,6 +5,11 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 
 ---
 
+## Pre-Departure Checklist (before Jun 26)
+- [ ] **K-ETA** — Apply at www.k-eta.go.kr or K-ETA app (up to 72hrs before departure) — required for all passengers entering Korea (EHTT9A + EHY62Y)
+- [ ] **Customs declaration** — Complete Korea customs declaration for entry
+- [ ] **US entry details** — Enter temporary US residence address for return immigration (KE023)
+
 ## June 26 (Fri) — San Francisco → Seoul
 - 12:40 Depart SFO on KE024
 - *(crosses date line)*
@@ -108,6 +113,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 ## July 16 (Thu) — Seoul
 
 ## July 17 (Fri) — Seoul
+- Evening: Friends meet up (late evening)
 
 ## July 18 (Sat) — Seoul
 
