@@ -169,6 +169,11 @@ body {
   color: #9a6f00;
   border: 1px solid #ffd97a;
 }
+.earrival-badge.na {
+  background: #f0f0f0;
+  color: #888888;
+  border: 1px solid #d0d0d0;
+}
 .earrival-details { display: flex; flex-direction: column; gap: 3px; }
 .earrival-row { display: flex; flex-direction: column; gap: 1px; }
 .earrival-label { font-size: 10px; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: 0.04em; }

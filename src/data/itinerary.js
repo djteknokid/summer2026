@@ -7,10 +7,10 @@ export const cities = [
     emoji: '🇰🇷',
     hotel: { name: 'Hotel Sunbee, Insadong', nights: 'Jun 27–28' },
     eArrivalCards: [
-      { name: 'David', issueNo: 'EAC-26-PA-11339670', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 02:42 KST', status: 'confirmed' },
-      { name: 'Wife',   issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
+      { name: 'David', issueNo: 'EAC-26-GA-11340037', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 03:05 KST', status: 'confirmed' },
+      { name: 'Wife',   issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'na' },
       { name: 'Jisu',   issueNo: 'EAC-26-PA-11339874', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 02:54 KST', status: 'confirmed' },
-      { name: 'Jiwon',  issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
+      { name: 'Jiwon',  issueNo: 'EAC-26-GA-11340038', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 03:05 KST', status: 'confirmed' },
     ],
     days: [
       {

@@ -11,7 +11,7 @@ export default function EArrivalCards({ cards }) {
             <div className="earrival-card-top">
               <span className="earrival-name">{card.name}</span>
               <span className={`earrival-badge ${card.status}`}>
-                {card.status === 'confirmed' ? '✓ Done' : 'Pending'}
+                {card.status === 'confirmed' ? '✓ Done' : card.status === 'na' ? 'N/A' : 'Pending'}
               </span>
             </div>
             {card.status === 'confirmed' ? (
@@ -29,6 +29,8 @@ export default function EArrivalCards({ cards }) {
                   <span className="earrival-value">{card.expires}</span>
                 </div>
               </div>
+            ) : card.status === 'na' ? (
+              <div className="earrival-pending-msg">Korean citizen — no card required</div>
             ) : (
               <div className="earrival-pending-msg">Not yet submitted</div>
             )}
