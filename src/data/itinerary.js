@@ -9,7 +9,7 @@ export const cities = [
     eArrivalCards: [
       { name: 'David', issueNo: 'EAC-26-PA-11339670', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 02:42 KST', status: 'confirmed' },
       { name: 'Wife',   issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
-      { name: 'Jisu',   issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
+      { name: 'Jisu',   issueNo: 'EAC-26-PA-11339874', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 02:54 KST', status: 'confirmed' },
       { name: 'Jiwon',  issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
     ],
     days: [
