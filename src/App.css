@@ -116,6 +116,66 @@ body {
   margin-top: 2px;
 }
 
+/* e-Arrival Cards */
+.earrival-block {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+.earrival-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  background: #f8f8f8;
+  border-bottom: 1px solid var(--border);
+}
+.earrival-title { font-size: 13px; font-weight: 700; color: var(--text-primary); }
+.earrival-subtitle { font-size: 11px; color: var(--text-tertiary); }
+.earrival-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--border);
+}
+.earrival-card {
+  background: var(--surface);
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.earrival-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.earrival-name { font-size: 13px; font-weight: 700; }
+.earrival-badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 20px;
+  letter-spacing: 0.03em;
+}
+.earrival-badge.confirmed {
+  background: #e6f7ee;
+  color: #1a7a45;
+  border: 1px solid #b0e4c8;
+}
+.earrival-badge.pending {
+  background: #fff8e6;
+  color: #9a6f00;
+  border: 1px solid #ffd97a;
+}
+.earrival-details { display: flex; flex-direction: column; gap: 3px; }
+.earrival-row { display: flex; flex-direction: column; gap: 1px; }
+.earrival-label { font-size: 10px; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: 0.04em; }
+.earrival-value { font-size: 11px; color: var(--text-primary); }
+.earrival-value.mono { font-family: ui-monospace, monospace; font-size: 11px; }
+.earrival-pending-msg { font-size: 11px; color: var(--text-tertiary); font-style: italic; }
+
 /* Hotel Card */
 .hotel-card {
   display: flex;

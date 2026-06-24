@@ -6,6 +6,12 @@ export const cities = [
     dates: 'Jun 26–29',
     emoji: '🇰🇷',
     hotel: { name: 'Hotel Sunbee, Insadong', nights: 'Jun 27–28' },
+    eArrivalCards: [
+      { name: 'David', issueNo: 'EAC-26-PA-11339670', flight: 'KE024', arrival: '2026.06.27', expires: '2026-06-28 02:42 KST', status: 'confirmed' },
+      { name: 'Wife',   issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
+      { name: 'Jisu',   issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
+      { name: 'Jiwon',  issueNo: null, flight: 'KE024', arrival: '2026.06.27', expires: null, status: 'pending' },
+    ],
     days: [
       {
         date: 'Jun 26 (Fri)',

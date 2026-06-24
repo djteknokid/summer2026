@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import DayCard from './DayCard'
+import EArrivalCards from './EArrivalCards'
 
 export default function CitySection({ city }) {
   const [todoOpen, setTodoOpen] = useState(false)
@@ -30,6 +31,8 @@ export default function CitySection({ city }) {
           </div>
         </div>
       )}
+
+      {city.eArrivalCards && <EArrivalCards cards={city.eArrivalCards} />}
 
       <div className="days-list">
         {city.days.map((day, i) => (
