@@ -135,7 +135,10 @@ export const cities = [
       { date: 'Jul 2 (Thu)', label: 'Arrive Tokyo', items: [{ type: 'hotel', text: 'Check in: illi Com Shimokitazawa' }] },
       { date: 'Jul 3 (Fri)', label: 'Tokyo', items: [] },
       { date: 'Jul 4 (Sat)', label: 'Tokyo + Tanabata Matsuri', items: [{ type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)' }] },
-      { date: 'Jul 5 (Sun)', label: 'Tokyo + Tanabata Matsuri', items: [{ type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)' }] },
+      { date: 'Jul 5 (Sun)', label: 'Tokyo + Tanabata Matsuri', items: [
+        { type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)' },
+        { type: 'activity', time: '21:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '21:00–22:30 JST · 5–6:30pm PST (online)' },
+      ]},
       { date: 'Jul 6 (Mon)', label: 'Tokyo', items: [] },
       { date: 'Jul 7 (Tue)', label: 'Giants vs Hanshin ⚾', items: [
         { type: 'activity', time: '16:00', text: 'Giants vs Hanshin — doors open' },

@@ -76,6 +76,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 ## July 4 (Sat) — Tokyo
 
 ## July 5 (Sun) — Tokyo
+- 21:00–22:30 JST (05:00–06:30pm PST) Scratch Coding Class — Jisu & Jiwon (online)
 
 ## July 6 (Mon) — Tokyo
 
