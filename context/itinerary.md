@@ -101,6 +101,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 
 ## July 12 (Sun) — Family Trip 🚫 busy
 *(details TBD)*
+- 21:00–22:30 KST (05:00–06:30pm PST) Scratch Coding Class — Jisu & Jiwon (online)
 
 ## July 13 (Mon) — Seoul
 - Lunch + visit Across-B

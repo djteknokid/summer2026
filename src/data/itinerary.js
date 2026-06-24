@@ -166,7 +166,10 @@ export const cities = [
       },
       { date: 'Jul 10 (Fri)', label: 'Family Trip 🚫', items: [{ type: 'note', text: 'Details TBD' }] },
       { date: 'Jul 11 (Sat)', label: 'Family Trip 🚫', items: [{ type: 'note', text: 'Details TBD' }] },
-      { date: 'Jul 12 (Sun)', label: 'Family Trip 🚫', items: [{ type: 'note', text: 'Details TBD' }] },
+      { date: 'Jul 12 (Sun)', label: 'Family Trip 🚫', items: [
+        { type: 'note', text: 'Details TBD' },
+        { type: 'activity', time: '21:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '21:00–22:30 KST · 5–6:30pm PST (online)' },
+      ]},
       { date: 'Jul 13 (Mon)', label: 'Seoul', items: [{ type: 'activity', text: 'Lunch + visit Across-B' }] },
       { date: 'Jul 14 (Tue)', label: 'Seoul', items: [] },
       { date: 'Jul 15 (Wed)', label: 'Seoul', items: [{ type: 'activity', time: '08:00', text: '건강검진 — Hanyang University Hospital, 3rd floor west' }] },
