@@ -79,6 +79,7 @@ export const cities = [
         date: 'Jul 1 (Wed)',
         label: 'Osaka → Kyoto',
         items: [
+          { type: 'activity', time: '01:30', text: 'Urgent SAP meeting', detail: '01:30–01:55 KST · 8:30–8:55am PST Jun 30 (online)' },
           { type: 'activity', time: '09:00', text: 'Sky Spa / breakfast at Candeo Hotel' },
           { type: 'note', time: '10:00', text: 'Check out, explore Dotonbori area' },
           { type: 'transport', time: '11:00', text: 'JR Special Rapid Train: Osaka Station → Kyoto Station (~30 min, ¥570)' },

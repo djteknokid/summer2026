@@ -35,6 +35,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 - Check in: Candeo Hotels Osaka The Tower (Namba area) — 1 night
 
 ## July 1 (Wed) — Osaka → Kyoto
+- 01:30–01:55 Urgent SAP meeting (8:30–8:55am PST Jun 30, online)
 - 09:00 Sky Spa / breakfast at Candeo Hotel
 - 10:00 Check out, explore Dotonbori area
 - 11:00 Depart for Kyoto
