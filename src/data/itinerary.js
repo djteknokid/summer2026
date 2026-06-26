@@ -141,7 +141,11 @@ export const cities = [
     days: [
       { date: 'Jul 2 (Thu)', label: 'Arrive Tokyo', items: [{ type: 'hotel', text: 'Check in: illi Com Shimokitazawa', map: 'https://www.google.com/maps/place/illi+Com+Shimokitazawa/@35.661600,139.666500,17z' }] },
       { date: 'Jul 3 (Fri)', label: 'Tokyo', items: [] },
-      { date: 'Jul 4 (Sat)', label: 'Tokyo + Tanabata Matsuri', items: [{ type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)', map: 'https://www.google.com/maps/place/Asakusa/@35.71444,139.79667,15z' }] },
+      { date: 'Jul 4 (Sat)', label: 'Tokyo + Tanabata Matsuri', items: [
+        { type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)', map: 'https://www.google.com/maps/place/Asakusa/@35.71444,139.79667,15z' },
+        { type: 'note', time: '22:50', text: 'In-laws arrive HND — KE751 from ICN (Seat 10A)', map: 'https://www.google.com/maps/place/Tokyo+Haneda+Airport/@35.54944,139.77972,14z' },
+        { type: 'transport', text: 'Pick up in-laws from Haneda (HND)', map: 'https://www.google.com/maps/place/Tokyo+Haneda+Airport/@35.54944,139.77972,14z' },
+      ]},
       { date: 'Jul 5 (Sun)', label: 'Tokyo + Tanabata Matsuri', items: [
         { type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)', map: 'https://www.google.com/maps/place/Asakusa/@35.71444,139.79667,15z' },
       ]},
