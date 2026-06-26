@@ -17,6 +17,7 @@ export const cities = [
         date: 'Jun 26 (Fri)',
         label: 'San Francisco → Seoul',
         items: [
+          { type: 'transport', time: '09:00', text: 'Uber pickup from home' },
           { type: 'flight', time: '12:40', text: 'Depart SFO on KE024', detail: 'Crosses date line' },
         ],
       },

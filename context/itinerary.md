@@ -11,6 +11,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 - [ ] **US entry details** — Enter temporary US residence address for return immigration (KE023)
 
 ## June 26 (Fri) — San Francisco → Seoul
+- 09:00 Uber pickup from home
 - 12:40 Depart SFO on KE024
 - *(crosses date line)*
 
