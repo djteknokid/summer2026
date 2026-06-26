@@ -15,7 +15,10 @@ function TripItem({ item }) {
       <span className="item-icon">{config.icon}</span>
       <div className="item-body">
         {item.time && <span className="item-time">{item.time}</span>}
-        <span className="item-text">{item.text}</span>
+        {item.map
+          ? <a className="item-text item-map-link" href={item.map} target="_blank" rel="noopener noreferrer">{item.text} 📍</a>
+          : <span className="item-text">{item.text}</span>
+        }
         {item.detail && <span className="item-detail">{item.detail}</span>}
       </div>
     </div>

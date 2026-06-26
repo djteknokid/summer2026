@@ -27,7 +27,11 @@ export default function CitySection({ city, weather }) {
         <div className="hotel-card">
           <span className="hotel-icon">🏨</span>
           <div>
-            <div className="hotel-name">{city.hotel.name}</div>
+          <div className="hotel-name">
+              {city.hotel.map
+                ? <a href={city.hotel.map} target="_blank" rel="noopener noreferrer">{city.hotel.name} 📍</a>
+                : city.hotel.name}
+            </div>
             {city.hotel.address && <div className="hotel-detail">{city.hotel.address}</div>}
             <div className="hotel-detail">{city.hotel.nights}</div>
             {city.hotel.confirmation && (
@@ -54,7 +58,11 @@ export default function CitySection({ city, weather }) {
           {todoOpen && (
             <ul className="todo-list">
               {city.todoList.map((item, i) => (
-                <li key={i}>{item}</li>
+                <li key={i}>
+                  {item.map
+                    ? <a href={item.map} target="_blank" rel="noopener noreferrer">{item.text} 📍</a>
+                    : item.text}
+                </li>
               ))}
             </ul>
           )}
