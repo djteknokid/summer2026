@@ -2,7 +2,12 @@ import { useState } from 'react'
 import DayCard from './DayCard'
 import EArrivalCards from './EArrivalCards'
 
-export default function CitySection({ city }) {
+// "Jul 1 (Wed)" → "Jul 1"
+function shortDate(dateStr) {
+  return dateStr.replace(/\s*\(.*\)/, '').trim()
+}
+
+export default function CitySection({ city, weather }) {
   const [todoOpen, setTodoOpen] = useState(false)
 
   return (
@@ -36,7 +41,7 @@ export default function CitySection({ city }) {
 
       <div className="days-list">
         {city.days.map((day, i) => (
-          <DayCard key={i} day={day} />
+          <DayCard key={i} day={day} weather={weather?.[shortDate(day.date)]} />
         ))}
       </div>
 

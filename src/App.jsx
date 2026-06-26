@@ -1,9 +1,12 @@
 import { cities } from './data/itinerary'
 import CitySection from './components/CitySection'
 import FlightsSection from './components/FlightsSection'
+import useWeather from './hooks/useWeather'
 import './App.css'
 
 export default function App() {
+  const weather = useWeather()
+
   return (
     <div className="app">
       <header className="site-header">
@@ -30,7 +33,7 @@ export default function App() {
       <main>
         <FlightsSection />
         {cities.map(city => (
-          <CitySection key={city.id} city={city} />
+          <CitySection key={city.id} city={city} weather={weather[city.id]} />
         ))}
       </main>
 
