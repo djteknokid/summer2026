@@ -11,7 +11,7 @@
 | Reservation No | 3216000335 |
 | Reservation Date | Sun, April 12, 2026 |
 | Price | KRW 549,000 |
-| Address | 서울특별시 종로구 인사동7길 26 (관훈동, 호텔 썬비) |
+| Address | [서울특별시 종로구 인사동7길 26 (관훈동, 호텔 썬비)](https://maps.app.goo.gl/7pBiJQ2W8kFN4kCk8) |
 | Phone | 02-730-3451 |
 | Website | https://kr.hotelsunbee.com/ |
 
@@ -28,6 +28,7 @@
 | Status | Confirmed |
 | Confirmation No | 20260413153182369 |
 | Expedia Itinerary | 73418965799409 |
+| Map | [Candeo Hotels Osaka The Tower](https://maps.app.goo.gl/s8hHyEJdRuF3YVDL9) |
 
 ---
 
@@ -41,7 +42,7 @@
 | Room | Japanese Style Room |
 | Guests | 1 room |
 | Booked for | David Lee |
-| Address | 33 Sagatenryuji Susukinobaba-cho, Ukyo-ku, Kyoto, 616-8385 Japan |
+| Address | [33 Sagatenryuji Susukinobaba-cho, Ukyo-ku, Kyoto](https://maps.app.goo.gl/tSmHbPGAEpZEgHKq9) |
 
 ---
 
@@ -55,4 +56,4 @@
 | Status | Confirmed |
 | Confirmation No | 22388729 |
 | Expedia Itinerary | 73425012531032 |
-| Address | 2-15-17 Kitazawa, Tokyo 155-0031 |
+| Address | [2-15-17 Kitazawa, Tokyo 155-0031](https://maps.app.goo.gl/Yd9QpZiXvjNbU2Kn9) |
