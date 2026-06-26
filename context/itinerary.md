@@ -34,6 +34,8 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 - 11:20 Arrive Osaka/Kansai (KIX)
 - 🚃 Nankai Rapi:t Express: KIX → Namba Station (~38 min, ¥1,550/person)
 - Check in: Candeo Hotels Osaka The Tower (Namba area) — 1 night
+- 20:10 Arrive at Nippombashi Pier (Dotonbori) — 3 min walk from Exit 2, Osaka Metro "Nippombashi" station
+- 20:30 🚢 Dotonbori 20-minute Sightseeing Cruise (4 people) — Reservation W_260627_4449305028_1
 
 ## July 1 (Wed) — Osaka → Kyoto
 - 01:30–01:55 Urgent SAP meeting (8:30–8:55am PST Jun 30, online)
