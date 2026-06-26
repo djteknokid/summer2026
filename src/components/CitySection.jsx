@@ -41,7 +41,7 @@ export default function CitySection({ city, weather }) {
 
       <div className="days-list">
         {city.days.map((day, i) => (
-          <DayCard key={i} day={day} weather={weather?.[shortDate(day.date)]} />
+          <DayCard key={i} day={day} weather={weather?.[shortDate(day.date)]} weatherLabel={city.name} />
         ))}
       </div>
 

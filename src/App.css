@@ -257,6 +257,7 @@ body {
   margin-right: 6px;
   flex-shrink: 0;
 }
+.day-weather-label { font-size: 10px; color: var(--text-tertiary); font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; margin-right: 2px; }
 .day-weather-icon { font-size: 14px; line-height: 1; }
 .day-weather-temp { font-size: 11px; color: var(--text-tertiary); font-weight: 600; white-space: nowrap; }
 .day-items { padding: 6px 0; }

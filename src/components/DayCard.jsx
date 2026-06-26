@@ -22,7 +22,7 @@ function TripItem({ item }) {
   )
 }
 
-export default function DayCard({ day, weather }) {
+export default function DayCard({ day, weather, weatherLabel }) {
   const hasItems = day.items.length > 0
   const [open, setOpen] = useState(false)
 
@@ -38,6 +38,7 @@ export default function DayCard({ day, weather }) {
         <span className="day-label">{day.label}</span>
         {weather && (
           <span className="day-weather">
+            <span className="day-weather-label">{weatherLabel}</span>
             <span className="day-weather-icon">{weather.icon}</span>
             <span className="day-weather-temp">{weather.high}°/{weather.low}°</span>
           </span>
