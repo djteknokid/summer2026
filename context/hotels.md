@@ -57,3 +57,17 @@
 | Confirmation No | 22388729 |
 | Expedia Itinerary | 73425012531032 |
 | Address | [2-15-17 Kitazawa, Tokyo 155-0031](https://maps.app.goo.gl/Yd9QpZiXvjNbU2Kn9) |
+
+---
+
+## Tokyo — Victoria Shimokitazawa (in-laws)
+
+| Item | Details |
+|------|---------|
+| Check-in | Sun, July 5, 2026 at 3:00 PM |
+| Check-out | Wed, July 8, 2026 at 10:00 AM |
+| Nights | 3 nights |
+| Room | Type B |
+| Booked for | In-laws |
+| Itinerary No | 73483339967429 |
+| Address | Setagaya-ku, Tokyo |

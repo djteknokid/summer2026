@@ -159,6 +159,7 @@ export const cities = [
       ]},
       { date: 'Jul 5 (Sun)', label: 'Tokyo + Tanabata Matsuri', items: [
         { type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)', map: 'https://www.google.com/maps/place/Asakusa/@35.71444,139.79667,15z' },
+        { type: 'hotel', time: '15:00', text: 'In-laws check in: Victoria Shimokitazawa, Setagaya-ku' },
       ]},
       { date: 'Jul 6 (Mon)', label: 'Tokyo', items: [
         { type: 'activity', time: '10:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '10:00–11:30 JST · 5–6:30pm PST Sun (online)' },
@@ -171,6 +172,7 @@ export const cities = [
         date: 'Jul 8 (Wed)',
         label: 'Tokyo → Seoul',
         items: [
+          { type: 'hotel', time: '10:00', text: 'In-laws check out: Victoria Shimokitazawa' },
           { type: 'flight', time: '14:00', text: 'Depart Tokyo/Narita (NRT) on KE704', map: 'https://www.google.com/maps/place/Narita+International+Airport/@35.76528,140.38556,14z' },
           { type: 'flight', time: '16:30', text: 'Arrive Incheon (ICN)', map: 'https://www.google.com/maps/place/Incheon+International+Airport/@37.46333,126.44000,14z' },
         ],

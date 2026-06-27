@@ -80,6 +80,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 ## July 4 (Sat) — Tokyo
 
 ## July 5 (Sun) — Tokyo
+- 15:00 In-laws check in: Victoria Shimokitazawa, Setagaya-ku
 
 ## July 6 (Mon) — Tokyo
 - 10:00–11:30 JST (05:00–06:30pm PST Sun) Scratch Coding Class — Jisu & Jiwon (online)
@@ -87,6 +88,7 @@ San Francisco → Seoul → Osaka → Kyoto → Tokyo → Seoul → San Francisc
 ## July 7 (Tue) — Tokyo
 
 ## July 8 (Wed) — Tokyo → Seoul
+- 10:00 In-laws check out: Victoria Shimokitazawa
 - 14:00 Depart [Tokyo/Narita (NRT)](https://maps.app.goo.gl/MqrU6LYZdHi2FMLT9) on KE704
 - 16:30 Arrive [Incheon (ICN)](https://maps.app.goo.gl/8rJJvT5MsJG4HJBJA)
 
