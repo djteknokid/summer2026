@@ -51,7 +51,7 @@ export const cities = [
     subtitle: '',
     dates: 'Jun 30 – Jul 1',
     emoji: '🏯',
-    hotel: { name: 'Candeo Hotels Osaka The Tower', nights: 'Jun 30 – Jul 1 (1 night, Namba area)', map: 'https://www.google.com/maps/place/Candeo+Hotels+Osaka+Namba+The+Tower/@34.670200,135.501800,17z' },
+    hotel: { name: 'Candeo Hotels Osaka The Tower', nights: 'Jun 30 – Jul 1 (1 night, Dojima/Nakanoshima area)', map: 'https://www.google.com/maps/place/Dojimahama,+Kita+Ward,+Osaka/@34.6939,135.5016,17z' },
     days: [
       {
         date: 'Jun 30 (Tue)',
@@ -62,7 +62,8 @@ export const cities = [
           { type: 'flight', time: '09:35', text: 'Depart Incheon (ICN) on KE723', map: 'https://www.google.com/maps/place/Incheon+International+Airport/@37.46333,126.44000,14z' },
           { type: 'flight', time: '11:20', text: 'Arrive Osaka/Kansai (KIX)', map: 'https://www.google.com/maps/place/Kansai+International+Airport/@34.43056,135.23028,14z' },
           { type: 'transport', text: 'Nankai Rapi:t Express: KIX → Namba Station (~38 min, ¥1,550/person)', map: 'https://www.google.com/maps/place/Namba+Station/@34.6634,135.5019,17z' },
-          { type: 'hotel', time: '13:00', text: 'Check in: Candeo Hotels Osaka The Tower', map: 'https://www.google.com/maps/place/Candeo+Hotels+Osaka+Namba+The+Tower/@34.670200,135.501800,17z' },
+          { type: 'transport', text: 'Osaka Metro Midosuji Line: Namba → Yodoyabashi (~5 min) → walk to hotel', map: 'https://www.google.com/maps/place/Yodoyabashi+Station/@34.6937,135.5013,17z' },
+          { type: 'hotel', time: '13:00', text: 'Check in: Candeo Hotels Osaka The Tower (Dojimahama 1-1-27)', map: 'https://www.google.com/maps/place/Dojimahama,+Kita+Ward,+Osaka/@34.6939,135.5016,17z' },
           { type: 'activity', time: '13:20', text: 'Tonkatsu GENYA', map: 'https://www.google.com/maps/place/Tonkatsu+Genya/@34.6911814,135.5080894,17z' },
           { type: 'activity', time: '14:15', text: 'Walk through Kitahama / Nakanoshima', map: 'https://www.google.com/maps/place/Nakanoshima/@34.6921,135.5025,15z' },
           { type: 'activity', time: '15:00', text: 'Coffee at MOTO COFFEE', map: 'https://www.google.com/maps/place/MOTO+COFFEE/@34.6920707,135.5064765,17z' },
@@ -97,7 +98,7 @@ export const cities = [
         label: 'Osaka → Kyoto',
         items: [
           { type: 'activity', time: '01:30', text: 'Urgent SAP meeting', detail: '01:30–01:55 KST · 8:30–8:55am PST Jun 30 (online)' },
-          { type: 'activity', time: '09:00', text: 'Sky Spa / breakfast at Candeo Hotel', map: 'https://www.google.com/maps/place/Candeo+Hotels+Osaka+Namba+The+Tower/@34.670200,135.501800,17z' },
+          { type: 'activity', time: '09:00', text: 'Sky Spa / breakfast at Candeo Hotel', map: 'https://www.google.com/maps/place/Dojimahama,+Kita+Ward,+Osaka/@34.6939,135.5016,17z' },
           { type: 'note', time: '10:00', text: 'Check out, explore Dotonbori area', map: 'https://www.google.com/maps/place/Dotonbori/@34.668708,135.501308,17z' },
           { type: 'transport', time: '11:00', text: 'JR Special Rapid: Osaka Station → Kyoto Station (~30 min, ¥570)', map: 'https://www.google.com/maps/place/Osaka+Station/@34.70250,135.49611,16z' },
           { type: 'activity', time: '12:00', text: 'Lunch at Nishiki Market (food stroll)', map: 'https://www.google.com/maps/place/Nishiki+Market/@35.005028,135.766139,17z' },
