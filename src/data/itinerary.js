@@ -154,7 +154,17 @@ export const cities = [
     ],
     days: [
       { date: 'Jul 2 (Thu)', label: 'Arrive Tokyo', items: [{ type: 'hotel', text: 'Check in: illi Com Shimokitazawa', map: 'https://www.google.com/maps/place/illi+Com+Shimokitazawa/@35.661600,139.666500,17z' }] },
-      { date: 'Jul 3 (Fri)', label: 'Tokyo', items: [] },
+      { date: 'Jul 3 (Fri)', label: 'Shimokitazawa + Akihabara', items: [
+        { type: 'activity', time: '09:00', text: 'Breakfast in Shimokitazawa', map: 'https://www.google.com/maps/place/Shimokitazawa/@35.661400,139.667200,15z' },
+        { type: 'activity', time: '10:00', text: 'Walk around Shimokitazawa', map: 'https://www.google.com/maps/place/Shimokitazawa/@35.661400,139.667200,15z' },
+        { type: 'note', time: '12:00', text: 'Lunch at home' },
+        { type: 'activity', time: '13:00', text: 'Yodobashi Akiba', map: 'https://www.google.com/maps/place/Yodobashi-Akiba/@35.698800,139.773000,17z' },
+        { type: 'activity', text: 'Gigo Akihabara 3', map: 'https://www.google.com/maps/place/GiGO+Akihabara+3/@35.700200,139.771500,17z' },
+        { type: 'activity', text: 'Super Potato', map: 'https://www.google.com/maps/place/Super+Potato+Retro-kan/@35.700900,139.771200,17z' },
+        { type: 'activity', text: 'Character Street — Tokyo Station B1', map: 'https://www.google.com/maps/place/Tokyo+Character+Street/@35.681200,139.767100,17z' },
+        { type: 'activity', text: 'Pokémon Center DX — Tokyo Station', map: 'https://www.google.com/maps/place/Pokemon+Center+TOKYO+DX/@35.681200,139.767100,17z' },
+        { type: 'note', text: 'Head home for dinner' },
+      ]},
       { date: 'Jul 4 (Sat)', label: 'Tokyo + Tanabata Matsuri', items: [
         { type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)', map: 'https://www.google.com/maps/place/Asakusa/@35.71444,139.79667,15z' },
         { type: 'note', time: '22:50', text: 'In-laws arrive HND — KE751 from ICN (Seat 10A)', map: 'https://www.google.com/maps/place/Tokyo+Haneda+Airport/@35.54944,139.77972,14z' },
