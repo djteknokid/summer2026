@@ -158,7 +158,7 @@ export const cities = [
         { type: 'activity', time: '09:00', text: 'Breakfast in Shimokitazawa', map: 'https://www.google.com/maps/place/Shimokitazawa/@35.661400,139.667200,15z' },
         { type: 'activity', time: '10:00', text: 'Walk around Shimokitazawa', map: 'https://www.google.com/maps/place/Shimokitazawa/@35.661400,139.667200,15z' },
         { type: 'note', time: '12:00', text: 'Lunch at home' },
-        { type: 'activity', time: '13:00', text: 'Yodobashi Akiba', map: 'https://www.google.com/maps/place/Yodobashi-Akiba/@35.698800,139.773000,17z' },
+        { type: 'transport', time: '13:00', text: 'Shimokitazawa → Akihabara', detail: 'Keio Inokashira Line → Shibuya (~5 min) · Transfer to JR Yamanote Line (clockwise/outer loop toward Ueno/Tokyo) → Akihabara (~25–30 min)', map: 'https://www.google.com/maps/place/Shimokitazawa+Station/@35.661400,139.667200,17z' },
         { type: 'activity', text: 'Gigo Akihabara 3', map: 'https://www.google.com/maps/place/GiGO+Akihabara+3/@35.700200,139.771500,17z' },
         { type: 'activity', text: 'Super Potato', map: 'https://www.google.com/maps/place/Super+Potato+Retro-kan/@35.700900,139.771200,17z' },
         { type: 'activity', text: 'Character Street — Tokyo Station B1', map: 'https://www.google.com/maps/place/Tokyo+Character+Street/@35.681200,139.767100,17z' },
