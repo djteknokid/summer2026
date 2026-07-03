@@ -158,7 +158,7 @@ export const cities = [
         { type: 'activity', time: '09:00', text: 'Breakfast in Shimokitazawa', map: 'https://www.google.com/maps/place/Shimokitazawa/@35.661400,139.667200,15z' },
         { type: 'activity', time: '10:00', text: 'Walk around Shimokitazawa', map: 'https://www.google.com/maps/place/Shimokitazawa/@35.661400,139.667200,15z' },
         { type: 'note', time: '12:00', text: 'Lunch at home' },
-        { type: 'transport', time: '13:00', text: 'Shimokitazawa → Akihabara', detail: 'Keio Inokashira Line → Shibuya (~5 min) · Transfer to JR Yamanote Line (clockwise/outer loop toward Ueno/Tokyo) → Akihabara (~25–30 min)', map: 'https://www.google.com/maps/place/Shimokitazawa+Station/@35.661400,139.667200,17z' },
+        { type: 'transport', time: '13:00', text: 'Shimokitazawa → Akihabara', detail: 'Keio Inokashira Line → Shibuya (~5 min) · Transfer to JR Yamanote Line (clockwise/outer loop toward Ueno/Tokyo) → Akihabara (~25–30 min) · Use Showa-dori Exit from Akihabara Station', map: 'https://www.google.com/maps/place/Shimokitazawa+Station/@35.661400,139.667200,17z' },
         { type: 'activity', text: 'Yodobashi Akiba', map: 'https://www.google.com/maps/place/Yodobashi-Akiba/@35.698700,139.771700,17z' },
         { type: 'activity', text: 'Gigo Akihabara 3', map: 'https://www.google.com/maps/place/GiGO+Akihabara+3/@35.700200,139.771500,17z' },
         { type: 'activity', text: 'Super Potato', map: 'https://www.google.com/maps/place/Super+Potato+Retro-kan/@35.700900,139.771200,17z' },
