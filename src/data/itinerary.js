@@ -163,6 +163,7 @@ export const cities = [
         { type: 'activity', text: 'Super Potato', map: 'https://www.google.com/maps/place/Super+Potato+Retro-kan/@35.700900,139.771200,17z' },
         { type: 'activity', text: 'Character Street — Tokyo Station B1', map: 'https://www.google.com/maps/place/Tokyo+Character+Street/@35.681200,139.767100,17z' },
         { type: 'activity', text: 'Pokémon Center DX — Tokyo Station', map: 'https://www.google.com/maps/place/Pokemon+Center+TOKYO+DX/@35.681200,139.767100,17z' },
+        { type: 'transport', text: 'Tokyo Station → Shimokitazawa', detail: 'Walk to Tokyo Station (~5 min) · JR Chuo Line (Rapid) toward Shinjuku (~13–15 min) · Transfer to Odakyu Line toward Odawara/Hon-Atsugi/Karakida → Shimokitazawa', map: 'https://www.google.com/maps/place/Tokyo+Station/@35.681200,139.767100,17z' },
         { type: 'note', text: 'Head home for dinner' },
       ]},
       { date: 'Jul 4 (Sat)', label: 'Tokyo + Tanabata Matsuri', items: [
