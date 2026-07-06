@@ -185,8 +185,10 @@ export const cities = [
         { type: 'activity', text: 'Shitamachi Tanabata Matsuri — Asakusa (Jul 4–5)', map: 'https://www.google.com/maps/place/Asakusa/@35.71444,139.79667,15z' },
         { type: 'hotel', time: '15:00', text: 'In-laws check in: Victoria Shimokitazawa, Setagaya-ku' },
       ]},
-      { date: 'Jul 6 (Mon)', label: 'Tokyo', items: [
+      { date: 'Jul 6 (Mon)', label: 'Shibuya Day', items: [
         { type: 'activity', time: '10:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '10:00–11:30 JST · 5–6:30pm PST Sun (online)' },
+        { type: 'activity', time: '11:00', text: 'Parch — Shibuya Nintendo', map: 'https://www.google.com/maps/place/Nintendo+TOKYO/@35.658200,139.698900,17z' },
+        { type: 'activity', time: '13:00', text: 'Jikasei MENSHO — ramen lunch', map: 'https://www.google.com/maps/place/Jikasei+Mensho/@35.659000,139.700000,17z' },
       ]},
       { date: 'Jul 7 (Tue)', label: 'Giants vs Hanshin ⚾', items: [
         { type: 'activity', time: '16:00', text: 'Giants vs Hanshin — doors open', map: 'https://www.google.com/maps/place/Tokyo+Dome/@35.7056,139.7519,16z' },
