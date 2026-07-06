@@ -189,6 +189,8 @@ export const cities = [
         { type: 'activity', time: '10:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '10:00–11:30 JST · 5–6:30pm PST Sun (online)' },
         { type: 'activity', time: '11:00', text: 'Parch — Shibuya Nintendo', map: 'https://www.google.com/maps/place/Nintendo+TOKYO/@35.658200,139.698900,17z' },
         { type: 'activity', time: '13:00', text: 'Jikasei MENSHO — ramen lunch', map: 'https://www.google.com/maps/place/Jikasei+Mensho/@35.659000,139.700000,17z' },
+        { type: 'transport', time: '14:00', text: 'Train to Nishi-Ogikubo', detail: 'JR Yamanote Line from Shibuya → Shinjuku (~7 min) · JR Chuo Line → Nishi-Ogikubo (~15 min)', map: 'https://www.google.com/maps/place/Nishi-Ogikubo+Station/@35.703600,139.606800,17z' },
+        { type: 'activity', time: '14:30', text: 'Nishi-Ogikubo wandering — antiques, vintage, oddities', map: 'https://www.google.com/maps/place/Nishi-Ogikubo/@35.703600,139.606800,15z' },
       ]},
       { date: 'Jul 7 (Tue)', label: 'Giants vs Hanshin ⚾', items: [
         { type: 'activity', time: '16:00', text: 'Giants vs Hanshin — doors open', map: 'https://www.google.com/maps/place/Tokyo+Dome/@35.7056,139.7519,16z' },
