@@ -233,7 +233,10 @@ export const cities = [
       { date: 'Jul 14 (Tue)', label: 'Seoul', items: [] },
       { date: 'Jul 15 (Wed)', label: 'Seoul', items: [{ type: 'activity', time: '08:00', text: '건강검진 — Hanyang University Hospital, 3rd floor west', map: 'https://www.google.com/maps/place/Hanyang+University+Hospital/@37.56333,127.03694,16z' }] },
       { date: 'Jul 16 (Thu)', label: 'Seoul', items: [] },
-      { date: 'Jul 17 (Fri)', label: 'Seoul', items: [{ type: 'activity', text: 'Friends meet up (late evening)' }] },
+      { date: 'Jul 17 (Fri)', label: 'Seongsu + Friends', items: [
+        { type: 'activity', time: '12:00', text: 'Lunch with friends — 누메로뜨레쓰 (Numero Tres), 성수', map: 'https://www.google.com/maps/place/Numero+Tres/@37.544500,127.056500,17z' },
+        { type: 'activity', text: 'Friends meet up (late evening)' },
+      ]},
       { date: 'Jul 18 (Sat)', label: 'Seoul', items: [] },
       {
         date: 'Jul 19 (Sun)',
