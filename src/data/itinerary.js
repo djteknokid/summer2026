@@ -223,11 +223,11 @@ export const cities = [
         label: 'Seoul',
         items: [{ type: 'activity', time: '19:30', text: 'JiHong Kim — Phi Institute — Silicon Valley Design Talk' }],
       },
-      { date: 'Jul 10 (Fri)', label: 'Family Trip 🚫', items: [{ type: 'note', text: 'Details TBD' }] },
+      { date: 'Jul 10 (Fri)', label: 'Seoul', items: [] },
       { date: 'Jul 11 (Sat)', label: 'Family Trip 🚫', items: [{ type: 'note', text: 'Details TBD' }] },
       { date: 'Jul 12 (Sun)', label: 'Family Trip 🚫', items: [{ type: 'note', text: 'Details TBD' }] },
-      { date: 'Jul 13 (Mon)', label: 'Seoul', items: [
-        { type: 'activity', text: 'Lunch + visit Across-B', map: 'https://www.google.com/maps/place/Across-B/@37.556000,126.924000,17z' },
+      { date: 'Jul 13 (Mon)', label: 'Family Trip 🚫', items: [
+        { type: 'note', text: 'Details TBD' },
         { type: 'activity', time: '10:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '10:00–11:30 KST · 5–6:30pm PST Sun (online)' },
       ]},
       { date: 'Jul 14 (Tue)', label: 'Seoul', items: [] },
