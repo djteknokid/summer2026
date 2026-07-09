@@ -231,7 +231,10 @@ export const cities = [
         { type: 'activity', time: '10:00', text: 'Scratch Coding Class — Jisu & Jiwon', detail: '10:00–11:30 KST · 5–6:30pm PST Sun (online)' },
       ]},
       { date: 'Jul 14 (Tue)', label: 'Seoul', items: [] },
-      { date: 'Jul 15 (Wed)', label: 'Seoul', items: [{ type: 'activity', time: '08:00', text: '건강검진 — Hanyang University Hospital, 3rd floor west', map: 'https://www.google.com/maps/place/Hanyang+University+Hospital/@37.56333,127.03694,16z' }] },
+      { date: 'Jul 15 (Wed)', label: 'Seoul', items: [
+        { type: 'activity', time: '08:00', text: '건강검진 — Hanyang University Hospital, 3rd floor west', map: 'https://www.google.com/maps/place/Hanyang+University+Hospital/@37.56333,127.03694,16z' },
+        { type: 'activity', time: '18:00', text: '팀휴먼과 함께 하는 포바코 2회 (포트럭 + 바이브코딩)', detail: '18:00–22:00 · 서울 강남구 테헤란로 132 한독약품 빌딩 14층', map: 'https://www.google.com/maps/place/132+Teheran-ro,+Gangnam-gu,+Seoul/@37.500900,127.036600,17z' },
+      ]},
       { date: 'Jul 16 (Thu)', label: 'Seoul', items: [] },
       { date: 'Jul 17 (Fri)', label: 'Seongsu + Friends', items: [
         { type: 'activity', time: '12:00', text: 'Lunch with friends — 누메로뜨레쓰 (Numero Tres), 성수', map: 'https://www.google.com/maps/place/Numero+Tres/@37.544500,127.056500,17z' },
