@@ -235,7 +235,11 @@ export const cities = [
         { type: 'activity', time: '08:00', text: '건강검진 — Hanyang University Hospital, 3rd floor west', map: 'https://www.google.com/maps/place/Hanyang+University+Hospital/@37.56333,127.03694,16z' },
         { type: 'activity', time: '18:00', text: '팀휴먼과 함께 하는 포바코 2회 (포트럭 + 바이브코딩)', detail: '18:00–22:00 · 서울 강남구 테헤란로 132 한독약품 빌딩 14층', map: 'https://www.google.com/maps/place/132+Teheran-ro,+Gangnam-gu,+Seoul/@37.500900,127.036600,17z' },
       ]},
-      { date: 'Jul 16 (Thu)', label: 'Seoul', items: [] },
+      { date: 'Jul 16 (Thu)', label: 'Seoul — Seonreung + Konkuk', items: [
+        { type: 'activity', time: '10:00', text: '선릉 — 데니엘과 커피', map: 'https://www.google.com/maps/place/Seonreung+Station/@37.504200,127.048900,17z' },
+        { type: 'activity', time: '11:00', text: '선릉 K-Club — 목욕 · 찜질 · 점심', map: 'https://www.google.com/maps/place/Seonreung/@37.504200,127.048900,16z' },
+        { type: 'activity', time: '14:00', text: '건대 엔시넌 — 제제와 커피', map: 'https://www.google.com/maps/place/Konkuk+University+Station/@37.540600,127.070200,17z' },
+      ]},
       { date: 'Jul 17 (Fri)', label: 'Seongsu + Friends', items: [
         { type: 'activity', time: '12:00', text: 'Lunch with friends — 누메로뜨레쓰 (Numero Tres), 성수', map: 'https://www.google.com/maps/place/Numero+Tres/@37.544500,127.056500,17z' },
         { type: 'activity', text: 'Friends meet up (late evening)' },
