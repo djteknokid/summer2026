@@ -274,7 +274,8 @@ export const cruise = {
       date: 'Aug 1 (Sat)',
       label: 'Embarkation — Long Beach',
       items: [
-        { type: 'note', text: 'Flight to Long Beach (TBD)' },
+        { type: 'flight', time: '08:30', text: 'Depart SFO on AS1329', detail: 'Alaska Airlines · Nonstop · arrives LAX 10:07am', map: 'https://www.google.com/maps/place/San+Francisco+International+Airport/@37.61889,-122.37500,14z' },
+        { type: 'transport', text: 'Uber: LAX → Long Beach Cruise Terminal (~25–30 min)', map: 'https://www.google.com/maps/place/Long+Beach+Cruise+Terminal/@33.754400,-118.216200,16z' },
         { type: 'transport', time: '15:30', text: 'Depart Long Beach (LA) — Carnival Panorama', map: 'https://www.google.com/maps/place/Long+Beach+Cruise+Terminal/@33.754400,-118.216200,16z' },
       ],
     },
@@ -311,9 +312,11 @@ export const cruise = {
     { date: 'Aug 8 (Sat)', label: 'At Sea', items: [] },
     {
       date: 'Aug 9 (Sun)',
-      label: 'Return — Long Beach',
+      label: 'Return — Long Beach → SFO',
       items: [
         { type: 'transport', time: '09:00', text: 'Arrive Long Beach (LA)', map: 'https://www.google.com/maps/place/Long+Beach+Cruise+Terminal/@33.754400,-118.216200,16z' },
+        { type: 'transport', text: 'Uber: Long Beach Cruise Terminal → LAX (~25–30 min)', map: 'https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.94250,-118.40806,14z' },
+        { type: 'flight', time: '13:28', text: 'Depart LAX on AS1522', detail: 'Alaska Airlines · Nonstop · arrives SFO 2:51pm', map: 'https://www.google.com/maps/place/Los+Angeles+International+Airport/@33.94250,-118.40806,14z' },
       ],
     },
   ],
