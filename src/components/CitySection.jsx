@@ -41,6 +41,17 @@ export default function CitySection({ city, weather }) {
         </div>
       )}
 
+      {city.booking && (
+        <div className="hotel-card">
+          <span className="hotel-icon">🚢</span>
+          <div>
+            <div className="hotel-name">{city.booking.ship} · Cabin {city.booking.cabin}</div>
+            <div className="hotel-detail">{city.booking.line}</div>
+            <div className="hotel-detail">Booking: {city.booking.bookingNumber}</div>
+          </div>
+        </div>
+      )}
+
       {city.eArrivalCards && <EArrivalCards cards={city.eArrivalCards} />}
 
       <div className="days-list">

@@ -1,4 +1,4 @@
-import { cities } from './data/itinerary'
+import { cities, cruise } from './data/itinerary'
 import CitySection from './components/CitySection'
 import FlightsSection from './components/FlightsSection'
 import useWeather from './hooks/useWeather'
@@ -11,9 +11,9 @@ export default function App() {
     <div className="app">
       <header className="site-header">
         <div className="header-inner">
-          <div className="route">SFO → ICN → KIX → KYO → TYO → ICN → SFO</div>
+          <div className="route">SFO → ICN → KIX → KYO → TYO → ICN → SFO · Carnival Panorama</div>
           <h1>Summer 2026</h1>
-          <p className="header-sub">Jun 26 – Jul 19</p>
+          <p className="header-sub">Jun 26 – Aug 9</p>
         </div>
       </header>
 
@@ -28,6 +28,10 @@ export default function App() {
             <span className="city-nav-name">{city.name}</span>
           </a>
         ))}
+        <a href="#cruise" className="city-nav-item">
+          <span className="city-nav-emoji">{cruise.emoji}</span>
+          <span className="city-nav-name">Cruise</span>
+        </a>
       </nav>
 
       <main>
@@ -35,10 +39,11 @@ export default function App() {
         {cities.map(city => (
           <CitySection key={city.id} city={city} weather={weather[city.id]} />
         ))}
+        <CitySection city={cruise} weather={{}} />
       </main>
 
       <footer className="site-footer">
-        <p>✈️ Korean Air &nbsp;·&nbsp; 🏨 Expedia &nbsp;·&nbsp; Jun 26 – Jul 19, 2026</p>
+        <p>✈️ Korean Air &nbsp;·&nbsp; 🚢 Carnival Panorama &nbsp;·&nbsp; Jun 26 – Aug 9, 2026</p>
       </footer>
     </div>
   )

@@ -256,3 +256,65 @@ export const cities = [
     ],
   },
 ];
+
+export const cruise = {
+  id: 'cruise',
+  name: 'Mexican Riviera',
+  subtitle: 'Carnival Cruise',
+  dates: 'Aug 1–9',
+  emoji: '🚢',
+  booking: {
+    line: 'Carnival Cruise Line',
+    ship: 'Carnival Panorama',
+    cabin: '6388 (Balcony)',
+    bookingNumber: 'XQ94T0',
+  },
+  days: [
+    {
+      date: 'Aug 1 (Sat)',
+      label: 'Embarkation — Long Beach',
+      items: [
+        { type: 'note', text: 'Flight to Long Beach (TBD)' },
+        { type: 'transport', time: '15:30', text: 'Depart Long Beach (LA) — Carnival Panorama', map: 'https://www.google.com/maps/place/Long+Beach+Cruise+Terminal/@33.754400,-118.216200,16z' },
+      ],
+    },
+    { date: 'Aug 2 (Sun)', label: 'At Sea', items: [] },
+    { date: 'Aug 3 (Mon)', label: 'At Sea', items: [] },
+    {
+      date: 'Aug 4 (Tue)',
+      label: 'Puerto Vallarta 🇲🇽',
+      items: [
+        { type: 'activity', text: 'Port day — Puerto Vallarta', map: 'https://www.google.com/maps/place/Puerto+Vallarta/@20.653400,-105.225300,13z' },
+      ],
+    },
+    {
+      date: 'Aug 5 (Wed)',
+      label: 'Mazatlán 🇲🇽',
+      items: [
+        { type: 'activity', text: 'Port day — Mazatlán', map: 'https://www.google.com/maps/place/Mazatlan/@23.249900,-106.411200,13z' },
+      ],
+    },
+    {
+      date: 'Aug 6 (Thu)',
+      label: 'La Paz 🇲🇽',
+      items: [
+        { type: 'activity', text: 'Port day — La Paz', map: 'https://www.google.com/maps/place/La+Paz,+Baja+California+Sur/@24.142600,-110.312700,13z' },
+      ],
+    },
+    {
+      date: 'Aug 7 (Fri)',
+      label: 'Cabo San Lucas 🇲🇽',
+      items: [
+        { type: 'activity', text: 'Port day — Cabo San Lucas', map: 'https://www.google.com/maps/place/Cabo+San+Lucas/@22.890500,-109.916700,13z' },
+      ],
+    },
+    { date: 'Aug 8 (Sat)', label: 'At Sea', items: [] },
+    {
+      date: 'Aug 9 (Sun)',
+      label: 'Return — Long Beach',
+      items: [
+        { type: 'transport', time: '09:00', text: 'Arrive Long Beach (LA)', map: 'https://www.google.com/maps/place/Long+Beach+Cruise+Terminal/@33.754400,-118.216200,16z' },
+      ],
+    },
+  ],
+};
